@@ -1,2 +1,34 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+# 🚀 Flutter & AI Enthusiast — Cengizhan Kaya  
+---
+## 👋 Hey There!  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,dotnet,tensorflow,github,figma,androidstudio,python" />
+</p>
+---
+
+## 💡 About Me  
+- 🎯 Passionate **Mobile App Developer** driven by **Innovation & AI**  
+- 📱 Experienced with **Flutter, Dart, RESTful APIs, Firebase, SQLite**  
+- 🧩 Strong grasp of **State Management** → Provider | BLoC | Riverpod  
+- ⚡ Skilled in **Clean Architecture & MVC Patterns**  
+- 🧪 Advocate of **Test-Driven Development (Unit & Widget Tests)**  
+- 🌍 Loves building smooth **Cross-Platform UI/UX** with Figma  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Flutter+Lover;AI;Provider+%26+BLoC+Fan;Test+Driven+Developer;Cross+Platform+Enthusiast"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" alt="Flutter" width="600"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile-Development-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Enthusiast-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
