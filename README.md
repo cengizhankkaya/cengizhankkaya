@@ -3,12 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,dotnet,tensorflow,github,figma,androidstudio,python" />
 </p>
----
 
 ## 💡 About Me  
-- 🎯 Passionate **Mobile App Developer** driven by **Innovation & AI**  
-- 📱 Experienced with **Flutter, Dart, RESTful APIs, Firebase, SQLite**  
+- 🎯 Passionate **Mobile App Developer** driven by **Innovation & AI**
 - 🧩 Strong grasp of **State Management** → Provider | BLoC | Riverpod  
+- 📱 Experienced with **Flutter, Dart, RESTful APIs, Firebase, SQLite**  
 - ⚡ Skilled in **Clean Architecture & MVC Patterns**  
 - 🧪 Advocate of **Test-Driven Development (Unit & Widget Tests)**  
 - 🌍 Loves building smooth **Cross-Platform UI/UX** with Figma  
