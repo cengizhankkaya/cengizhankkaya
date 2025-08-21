@@ -1,6 +1,4 @@
-# 🚀 Flutter & AI Enthusiast — Cengizhan Kaya  
----
-## 👋 Hey There!  
+#  Cengizhan Kaya  
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,dotnet,tensorflow,github,figma,androidstudio,python" />
@@ -20,11 +18,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg" alt="Flutter" width="600"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile-Development-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
